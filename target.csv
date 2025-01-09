@@ -1,0 +1,11 @@
+eno,deptno,ename,salary,location
+101,D001,John Smith,50000,New York
+102,D002,Alice Johnson,60000,San Francisco
+103,D001,Bob Wilson,55000,Chicago
+104,D003,Carol Brown,65000,Boston
+105,D002,David Miller,58000,Seattle
+106,D001,Emma Davis,52000,Austin
+107,D003,Frank White,62000,Denver
+108,D002,Grace Lee,59000,Portland
+109,D001,Henry Clark,54000,Miami
+110,D003,Ivy Chen,63000,Houston
